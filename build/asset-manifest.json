@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DAapp-Crowdfunding/static/css/main.d138fb8e.css",
+    "main.js": "/DAapp-Crowdfunding/static/js/main.e6d18083.js",
+    "static/js/488.d1b32952.chunk.js": "/DAapp-Crowdfunding/static/js/488.d1b32952.chunk.js",
+    "index.html": "/DAapp-Crowdfunding/index.html",
+    "main.d138fb8e.css.map": "/DAapp-Crowdfunding/static/css/main.d138fb8e.css.map",
+    "main.e6d18083.js.map": "/DAapp-Crowdfunding/static/js/main.e6d18083.js.map",
+    "488.d1b32952.chunk.js.map": "/DAapp-Crowdfunding/static/js/488.d1b32952.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d138fb8e.css",
+    "static/js/main.e6d18083.js"
+  ]
+}
